@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/campbellc.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/campbellc.github.io/static/js/main.adf39cc4.chunk.js",
+    "main.js.map": "/campbellc.github.io/static/js/main.adf39cc4.chunk.js.map",
+    "runtime-main.js": "/campbellc.github.io/static/js/runtime-main.8f48bba8.js",
+    "runtime-main.js.map": "/campbellc.github.io/static/js/runtime-main.8f48bba8.js.map",
+    "static/js/2.d89e898c.chunk.js": "/campbellc.github.io/static/js/2.d89e898c.chunk.js",
+    "static/js/2.d89e898c.chunk.js.map": "/campbellc.github.io/static/js/2.d89e898c.chunk.js.map",
+    "static/js/3.1b7b06b4.chunk.js": "/campbellc.github.io/static/js/3.1b7b06b4.chunk.js",
+    "static/js/3.1b7b06b4.chunk.js.map": "/campbellc.github.io/static/js/3.1b7b06b4.chunk.js.map",
+    "index.html": "/campbellc.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/campbellc.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d89e898c.chunk.js.LICENSE.txt": "/campbellc.github.io/static/js/2.d89e898c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/campbellc.github.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f48bba8.js",
+    "static/js/2.d89e898c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.adf39cc4.chunk.js"
+  ]
+}
